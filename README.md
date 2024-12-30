@@ -1,2 +1,3 @@
-# portfolio_DataS
-Proyectos y Recursos Data Science
+# Natural Language processing 
+# Procesamiento del Lenguaje natural 
+# Proyectos y Recursos en Python
